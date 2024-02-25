@@ -1,8 +1,8 @@
 /*
-𝐀𝐮𝐭𝐡𝐨𝐫 : Shirokami Ryzen 
-𝐖𝐚 : +6281387307198
-𝐛𝐚𝐬𝐞 : Narutomo & Elaina
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Nov 2022
+𝐀𝐮𝐭𝐡𝐨𝐫 : Bagus Vendi Vannessa 
+𝐖𝐚 : +6285726996330
+𝐛𝐚𝐬𝐞 : Vorst Cavry
+𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Nov 2023
 */
 
 import { watchFile, unwatchFile } from 'fs'
@@ -96,9 +96,9 @@ global.wait = 'Please Wait...'
 global.eror = 'Error!'
 
 /*============= WEB API KEY =============*/
-global.openai = 'YOUR_APIKEY_HERE'  //api key bisa didapatkan dari https://openai.com/api/
-global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
-global.xzn = 'YOUR_APIKEY_HERE'
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
+global.org = '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'  //openAI Organization name
+global.xzn = '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'
 
 global.APIs = {
   // name: 'https://website'
