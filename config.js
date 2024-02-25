@@ -32,43 +32,44 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['6285726996330', 'vorstcavry', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6285726996330'
+global.nomorown = '6285726996330'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Nao-MD ESM'
-global.wm = '© Nao-MD By Shirokami Ryzen'
+global.author = 'Bagus Vendi Vannessa'
+global.namebot = 'Vorst-Cavry-Son'
+global.wm = '© Vorst-Cavry-Son By Bagus Vendi Vannessa'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-MD ESM\n+6285864034767`
-global.stickauth = `© Nao-MD By Shirokami Ryzen`
+global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/vorstcavry\n\nVorst-Cavry-Son\n+6285726996330`
+global.stickauth = `© Vorst-Cavry-Son By Bagus Vendi Vannessa`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen'
-global.sgc = 'https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J'
-global.sgw = 'https://ryzendesu.vip'
+global.sig = ' https://www.instagram.com/vorst_cavry'
+global.sgh = 'https://github.com/vorstcavry'
+global.sgc = 'https://wa.me/085726996330'
+global.sgw = '-'
 global.sdc = '-'
-global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.sfb = 'https://www.facebook.com/VorstCavry.VendyVannessa'
+global.snh = ' https://www.instagram.com/vorst_cavry'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
-global.povo = '-'
-global.pgopay = '085174269046'
+global.pdana = '085726996330'
+global.povo = '085726996330'
+global.pshopee = '085726996330'
+global.pgopay = '085726996330'
 global.plinkaja = '-'
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
-global.psaweria = 'https://saweria.co/shirokamiryzen'
-global.bank1 = '109901209640'
+global.ppulsa = '085726996330'
+global.ppulsa2 = '085726996330'
+global.psaweria = 'https://saweria.co/vorstcavry'
+global.bank1 = '-'
 global.bank2 = '-'
 
 
